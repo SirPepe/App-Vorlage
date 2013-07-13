@@ -1,0 +1,16 @@
+{
+  "name": "Workshop-App",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "Peter Kröner",
+    "email": "peter@peterkroener.de"
+  },
+  "devDependencies" : {
+    "grunt": "0.4.x",
+    "grunt-contrib": "0.7.x"
+  }
+}

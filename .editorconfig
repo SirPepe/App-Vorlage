@@ -1,0 +1,14 @@
+; http://editorconfig.org/
+root = true
+
+[*]
+end_of_line = LF
+
+[*.html]
+indent_style = tab
+indent_size = 4
+tab_width = 4
+
+[*.js]
+indent_style = space
+indent_size = 2
